@@ -1,27 +1,14 @@
-
+*{
+    padding: 1px;
+    margin: 1px;
+}
 
 /*header styling */
-.what{
-color: white;
-font-size: 12px;
-font-family: Source Sans Pro;
-font-weight: 700;
-word-wrap: break-word
+.menu{
+display: inline-flex;
+height: 15px;
+justify-content: center;
+align-items: flex-start;
+gap: 41px;
+flex-shrink: 0;
 }
----
-.results{
-color: white;
-font-size: 12px;
-font-family: Source Sans Pro;
-font-weight: 700;
-word-wrap: break-word
-}
----
-.contact{
-color: white;
-font-size: 12px;
-font-family: Source Sans Pro;
-font-weight: 700;
-word-wrap: break-word
-}
-
