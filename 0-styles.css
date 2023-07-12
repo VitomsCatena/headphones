@@ -12,3 +12,39 @@ align-items: flex-start;
 gap: 41px;
 flex-shrink: 0;
 }
+
+.learn{
+    width: 255px;
+    height: 15px;
+    left: 745.39px;
+    top: 9.24px;
+    position: absolute;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 41px; 
+    display: inline-flex"
+}
+
+.what{
+    color: white;
+    font-size: 12px;
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.results{
+     color: white;
+     font-size: 12px;
+     font-family: Source Sans Pro;
+     font-weight: 700;
+    word-wrap: break-word;
+}
+
+.contacts{
+    color: white;
+    font-size: 12px;
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    word-wrap: break-word;
+}
