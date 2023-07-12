@@ -2,31 +2,35 @@
     padding: 1px;
     margin: 1px;
 }
-
+  body{
+    width: 100%;
+  height: 100%;
+  position: relative;
+  background: white;
+  }
 /*header styling */
-.menu{
-display: inline-flex;
-height: 15px;
-justify-content: center;
-align-items: flex-start;
-gap: 41px;
-flex-shrink: 0;
+
+header{
+    width: 100%;
+    height: 100%;
+    position: relative
+
 }
 
-.learn{
-    width: 255px;
+.menu{
+    width: 100%;
     height: 15px;
-    left: 745.39px;
+    left: 71.39px;
     top: 9.24px;
-    position: absolute;
+    position:absolute;
     justify-content: center;
-    align-items: flex-start;
+    align-items: flex-end;
     gap: 41px; 
-    display: inline-flex"
+    display: inline-flex;
 }
 
 .what{
-    color: white;
+    color: rgb(175, 30, 30);
     font-size: 12px;
     font-family: Source Sans Pro;
     font-weight: 700;
@@ -34,15 +38,15 @@ flex-shrink: 0;
 }
 
 .results{
-     color: white;
+     color: rgb(192, 22, 22);
      font-size: 12px;
      font-family: Source Sans Pro;
      font-weight: 700;
-    word-wrap: break-word;
+     word-wrap: break-word;
 }
 
 .contacts{
-    color: white;
+    color: rgb(165, 36, 36);
     font-size: 12px;
     font-family: Source Sans Pro;
     font-weight: 700;
